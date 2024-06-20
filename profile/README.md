@@ -1,5 +1,5 @@
 ## Hay Hair Healthy
-
+Hair Healthy (Hay) is an application designed to overcome various hair damage problems that many Indonesian people experience, such as hair loss, dandruff and damage due to mechanical, chemical and environmental factors.
 <!--
 
 **Here are some ideas to get you started:**
